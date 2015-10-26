@@ -3,10 +3,10 @@
 FEDERAL UNIVERSITY OF CEARÁ
 
 ARTIFICIAL INTELLIGENCE
+-
 PROFESSOR: JOÃO PAULO PORDEUS GOMES
-
-CRISTIANO SOUSA MELO
-IURY GOMES MONTEIRO
+-
+STUDENTS: CRISTIANO SOUSA MELO AND IURY GOMES MONTEIRO
 
 *******************************************************************************************************
 
